@@ -20,7 +20,8 @@ const API = "https://mocki.io/v1/f8d44009-0a6d-45ca-8f0a-7a81f2cc0731";
 function App() {
   return (
     <div className="wrapper">
-      <h1>Update Code Here</h1>
+      <h1>Render your data below</h1>
+      <p>Replace content with your logic according to requirements</p>
     </div>
   );
 }
